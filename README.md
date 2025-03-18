@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EliteDeadSeven
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning javascript/python
-- 💞️ I’m looking to collaborate on Learning new skills
-- 📫 How to reach me skullmonkey77@gmail.com
+- 👀 I’m interested in VR creation
+- 🌱 I’m currently learning Unreal Engine 5
+- 💞️ I’m looking to collaborate with effective unique game play
+- 📫 You Can Reach me here: skullmonkey77@gmail.com
 
 <!---
 EliteDeadSeven/EliteDeadSeven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
